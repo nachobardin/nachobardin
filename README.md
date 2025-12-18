@@ -13,7 +13,7 @@
 - [Simulación SysAdmin con Vagrant y Linux](https://github.com/tomasiozzia/practica-linux--Bardin-Gomez-Iozzia-.git)
 
 🔗 Contacto:
-- LinkedIn: [Mi LinkedIn](www.linkedin.com/in/ignacio-bardin-0b1a20305)
+- LinkedIn: [Mi LinkedIn](https://www.linkedin.com/in/ignacio-bardin-0b1a20305)
 - Email: nacho.bardin@gmail.com
 
 ---
