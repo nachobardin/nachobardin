@@ -9,12 +9,10 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 📂 Proyectos destacados:
-- [Juego Match-3 en Python](https://github.com/nachobardin/proyecto_pygame_match3.git)
-- ![Match-3 GIF](https://media.giphy.com/media/l0HlQ7LRalZ0F3bhi/giphy.gif)  
+- [Juego Match-3 en Python](https://github.com/nachobardin/proyecto_pygame_match3.git) 
   Juego tipo puzzle desarrollado con Pygame.
   
 - [Simulación SysAdmin con Vagrant y Linux](https://github.com/tomasiozzia/practica-linux--Bardin-Gomez-Iozzia-.git)
--  ![SysAdmin GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
   Entorno de práctica de administración de sistemas.
 
 🔗 Contacto:
