@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hola, soy Ignacio Bardin
 
-<!--
-**nachobardin/nachobardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Licenciatura en Informática / Tecnicatura en Programación (UTN)
 
-Here are some ideas to get you started:
+💻 Tecnologías y herramientas:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Proyectos destacados:
+- [Juego Match-3 en Python](https://github.com/nachobardin/proyecto_pygame_match3.git)
+- [Simulación SysAdmin con Vagrant y Linux](https://github.com/tomasiozzia/practica-linux--Bardin-Gomez-Iozzia-.git)
+
+🔗 Contacto:
+- LinkedIn: [Mi LinkedIn](www.linkedin.com/in/ignacio-bardin-0b1a20305)
+- Email: nacho.bardin@gmail.com
+
+---
